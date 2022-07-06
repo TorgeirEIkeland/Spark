@@ -4,3 +4,5 @@ An app that is meant to find people to do different activities with online where
 (we had 1.5 weeks to code the app)
 
 Assignment where we work with the digital design students and make an app together 3 designers  + 1 developer
+
+<img src="screenshots/HomeView.png" width="200"> <img src="screenshots/FriendsView.png" width="200"> <img src="screenshots/MapView.png" width="200">
